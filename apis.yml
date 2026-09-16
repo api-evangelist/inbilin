@@ -23,13 +23,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/inbilin.png
 name: inbilin
-description: inbilin was a Shanghai-based social networking mobile app founded in 2013 that let
-  users place voice calls to strangers, either dialing a person of interest or being paired at
-  random for a live conversation. It was surfaced as a portfolio company of Qiming Venture Partners
-  and added to the API Evangelist network as an enrichment lead. Public company databases
-  (Crunchbase, CB Insights, Tracxn) record inbilin as permanently closed / deadpooled; the
-  inbilin.com domain no longer resolves to a live site and no developer program, documentation,
-  OpenAPI, SDK, or public API surface could be located during enrichment.
+description: inbilin was a Shanghai-based social networking mobile app founded in 2013 that let users
+  place voice calls to strangers, either dialing a person of interest or being paired at random for a
+  live conversation. It was surfaced as a portfolio company of Qiming Venture Partners and added to the
+  API Evangelist network as an enrichment lead. Public company databases (Crunchbase, CB Insights, Tracxn)
+  record inbilin as permanently closed / deadpooled; the inbilin.com domain no longer resolves to a live
+  site and no developer program, documentation, OpenAPI, SDK, or public API surface could be located during
+  enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/inbilin/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -38,12 +38,13 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-status-reason: deadpooled per Crunchbase/CB Insights/Tracxn; inbilin.com does not resolve (NS present, no A record); no live API surface
+x-status-reason: deadpooled per Crunchbase/CB Insights/Tracxn; inbilin.com does not resolve (NS present,
+  no A record); no live API surface
 x-headquarters: Shanghai, China
 x-founded: '2013'
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-15'
 tags:
 - Company
 - Social
@@ -52,6 +53,7 @@ tags:
 - Communications
 - China
 - Deadpooled
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
